@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cibo Labs is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cibolabs.com.au/
+Cibo Labs Pty Ltd is an Australian agricultural data analytics company that provides satellite‑derived insights for farms, including pasture biomass, feed monitoring, land condition reports, and compliance assessments, empowering producers to make data‑driven decisions for profitability and sustainability.
+
+**Areas:** Agriculture · DataAnalytics · Geospatial · SatelliteImagery · FarmManagement
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cibolabs.com.au/)
+- [Documentation](https://support.cibolabs.com.au/en/knowledge)
+- [Getting started](https://support.cibolabs.com.au/en/knowledge/cibo-labs-forage-budget-calculator-quick-start-guide)
+- [Pricing](https://www.cibolabs.com.au/products)
+- [Sign up](https://app.cibolabs.com.au/authentication/register)
+- [Blog](https://blog.cibolabs.com.au/blog)
+- [Terms of service](https://cibolabs.atlassian.net/l/c/d8K4zAbN)
+- [Privacy policy](https://cibolabs.atlassian.net/l/c/d8K4zAbN)
+- [GitHub](https://github.com/cibolabs)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cibo-labs/](https://apis.io/providers/cibo-labs/).
